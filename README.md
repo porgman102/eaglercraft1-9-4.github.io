@@ -12,4 +12,4 @@ New 1.20 textures
 
 Mobs spawn more often now since nether fortnresses didnt spawn anything
 
-Music file FOUND! ill post it above
+Music file FOUND! DM/message me since the file is 94mb (too big for github) Its a texture pack you install from youre files.
